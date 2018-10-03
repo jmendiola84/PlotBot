@@ -7,3 +7,6 @@
 
 * Sentiment analysis conducted on Twitter accounts using VADER.
 
+## Instructions
+
+To implement Plotbot in your twitter account just substitute the example account used in the Jupyter Notebook with your own account and import your Twitter API key information.
