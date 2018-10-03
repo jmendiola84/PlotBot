@@ -10,3 +10,5 @@
 ## Instructions
 
 To implement Plotbot in your twitter account just substitute the example account used in the Jupyter Notebook with your own account and import your Twitter API key information.
+
+Please consider that VADER only applies proper sentiment analysis in English language. Therefore, tweets in a different language will not get an appropriate result and sentiment analysis will not be trustworthy for those accounts.
